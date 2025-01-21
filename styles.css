@@ -1,2 +1,4 @@
-
-/* Your CSS Code here. */
+.holder{
+	display: grid;
+	grid-template: repeat(2, 50px) / repeat(2, 50px)
+}
